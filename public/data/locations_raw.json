@@ -1,0 +1,556 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-11-21T14:53:35.726097+00:00",
+  "city": "Poznań",
+  "country": "Poland",
+  "totalLocations": 78,
+  "geocoded": false,
+  "locations": [
+    {
+      "id": 1,
+      "lp": 1,
+      "address": "os. 1000-lecia 45",
+      "additionalInfo": "wolnostojący",
+      "coordinates": null
+    },
+    {
+      "id": 2,
+      "lp": 2,
+      "address": "ul. 28 Czerwca 1956 r. nr 352/360",
+      "additionalInfo": "teren szkoły",
+      "coordinates": null
+    },
+    {
+      "id": 3,
+      "lp": 3,
+      "address": "ul. Arciszewskiego 35",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 4,
+      "lp": 4,
+      "address": "ul. Ballenstaedta 11",
+      "additionalInfo": "obok paczkomatu – z lewej strony",
+      "coordinates": null
+    },
+    {
+      "id": 5,
+      "lp": 5,
+      "address": "os. Batorego 4A",
+      "additionalInfo": "wolnostojący na parkingu",
+      "coordinates": null
+    },
+    {
+      "id": 6,
+      "lp": 6,
+      "address": "os. Batorego 18a",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 7,
+      "lp": 7,
+      "address": "os. Batorego 27c",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 8,
+      "lp": 8,
+      "address": "os. Batorego 39",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 9,
+      "lp": 9,
+      "address": "os. Batorego 75a",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 10,
+      "lp": 10,
+      "address": "os. Bohaterów II Wojny Światowej 33",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 11,
+      "lp": 11,
+      "address": "os. Bolesława Śmiałego 107",
+      "additionalInfo": "SP nr 34",
+      "coordinates": null
+    },
+    {
+      "id": 12,
+      "lp": 12,
+      "address": "ul. Bonin 10",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 13,
+      "lp": 13,
+      "address": "ul. Byczyńska 11A",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 14,
+      "lp": 14,
+      "address": "ul. Cegielskiego 1 VIII",
+      "additionalInfo": "LO im. Adama Mickiewicza",
+      "coordinates": null
+    },
+    {
+      "id": 15,
+      "lp": 15,
+      "address": "os. Chrobrego 7",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 16,
+      "lp": 16,
+      "address": "ul. Chrobrego 15",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 17,
+      "lp": 17,
+      "address": "os. Chrobrego 34",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 18,
+      "lp": 18,
+      "address": "ul. Czapla 21",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 19,
+      "lp": 19,
+      "address": "ul. Galileusza 6",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 20,
+      "lp": 20,
+      "address": "ul. Galileusza 14",
+      "additionalInfo": "Szkoła Podstawowa nr 7",
+      "coordinates": null
+    },
+    {
+      "id": 21,
+      "lp": 21,
+      "address": "ul. Głogowska 113/117",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 22,
+      "lp": 22,
+      "address": "ul. Górna Wilda 83 A-C",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 23,
+      "lp": 23,
+      "address": "os. Jagiellońskie 17",
+      "additionalInfo": "parking przy targowisku",
+      "coordinates": null
+    },
+    {
+      "id": 24,
+      "lp": 24,
+      "address": "os. Jagiellońskie 128",
+      "additionalInfo": "teren szkoły",
+      "coordinates": null
+    },
+    {
+      "id": 25,
+      "lp": 25,
+      "address": "os. Jagiełły 3",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 26,
+      "lp": 26,
+      "address": "ul. Janikowska 23B",
+      "additionalInfo": "przy paczkomacie",
+      "coordinates": null
+    },
+    {
+      "id": 27,
+      "lp": 27,
+      "address": "ul. Keplera 8A",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 28,
+      "lp": 28,
+      "address": "os. Kosmonautów 2",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": null
+    },
+    {
+      "id": 29,
+      "lp": 29,
+      "address": "os. Kosmonautów 16",
+      "additionalInfo": "obok pojemników na segregowane odpady",
+      "coordinates": null
+    },
+    {
+      "id": 30,
+      "lp": 30,
+      "address": "ul. Krańcowa 48",
+      "additionalInfo": "obok pojemników na segregowane odpady",
+      "coordinates": null
+    },
+    {
+      "id": 31,
+      "lp": 31,
+      "address": "ul. Kurpińskiego",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 32,
+      "lp": 32,
+      "address": "os. Lecha 37",
+      "additionalInfo": "SP nr 51",
+      "coordinates": null
+    },
+    {
+      "id": 33,
+      "lp": 33,
+      "address": "os. Lecha 121",
+      "additionalInfo": "obok pasażu sklepów — na parkingu",
+      "coordinates": null
+    },
+    {
+      "id": 34,
+      "lp": 34,
+      "address": "ul. Leszka 31",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 35,
+      "lp": 35,
+      "address": "ul. Łukaszewicza róg ul. Stablewskiego",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 36,
+      "lp": 36,
+      "address": "ul. Gen. St. Maczka 14",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 37,
+      "lp": 37,
+      "address": "ul. Mścibora 66",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 38,
+      "lp": 38,
+      "address": "os. Na Murawie 3-13",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 39,
+      "lp": 39,
+      "address": "os. Na Skarpie 84",
+      "additionalInfo": "obok altany i sali bankietowej",
+      "coordinates": null
+    },
+    {
+      "id": 40,
+      "lp": 40,
+      "address": "ul. Nad Potokiem 1",
+      "additionalInfo": "wolnostojący",
+      "coordinates": null
+    },
+    {
+      "id": 41,
+      "lp": 41,
+      "address": "ul. Naramowicka 149b",
+      "additionalInfo": "przy pojemnikach półpodziemnych",
+      "coordinates": null
+    },
+    {
+      "id": 42,
+      "lp": 42,
+      "address": "ul. Naramowicka 157",
+      "additionalInfo": "przy pojemnikach półpodziemnych",
+      "coordinates": null
+    },
+    {
+      "id": 43,
+      "lp": 43,
+      "address": "ul. Naramowicka 169",
+      "additionalInfo": "przy pojemnikach półpodziemnych",
+      "coordinates": null
+    },
+    {
+      "id": 44,
+      "lp": 44,
+      "address": "ul. Naramowicka 203",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 45,
+      "lp": 45,
+      "address": "ul. Newtona 1",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 46,
+      "lp": 46,
+      "address": "ul. Olszynka 8",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 47,
+      "lp": 47,
+      "address": "os. Orła Białego 71",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 48,
+      "lp": 48,
+      "address": "os. Pod Lipami 7",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": null
+    },
+    {
+      "id": 49,
+      "lp": 49,
+      "address": "os. Pod Lipami 81",
+      "additionalInfo": "obok pojemników na segregowane odpady",
+      "coordinates": null
+    },
+    {
+      "id": 50,
+      "lp": 50,
+      "address": "os. Potockiej 38 XXXVII",
+      "additionalInfo": "LO z Oddziałami Terapeutycznymi",
+      "coordinates": null
+    },
+    {
+      "id": 51,
+      "lp": 51,
+      "address": "os. Przemysława 21",
+      "additionalInfo": "siedziba SM Zrzeszeni",
+      "coordinates": null
+    },
+    {
+      "id": 52,
+      "lp": 52,
+      "address": "os. Przyjaźni 18",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": null
+    },
+    {
+      "id": 53,
+      "lp": 53,
+      "address": "os. Przyjaźni 142",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 54,
+      "lp": 54,
+      "address": "ul. Raszkowska 21",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 55,
+      "lp": 55,
+      "address": "ul. Raszyńska 4",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 56,
+      "lp": 56,
+      "address": "ul. Raszyńska 33",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 57,
+      "lp": 57,
+      "address": "os. Rusa 58",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 58,
+      "lp": 58,
+      "address": "ul. Sarmacka 8f",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 59,
+      "lp": 59,
+      "address": "os. Sobieskiego 41F",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 60,
+      "lp": 60,
+      "address": "ul. Sokoła 25",
+      "additionalInfo": "wolnostojący",
+      "coordinates": null
+    },
+    {
+      "id": 61,
+      "lp": 61,
+      "address": "os. Stare Żegrze 109",
+      "additionalInfo": "obok Netto",
+      "coordinates": null
+    },
+    {
+      "id": 62,
+      "lp": 62,
+      "address": "ul. Strugarka 13",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 63,
+      "lp": 63,
+      "address": "ul. Szarych Szeregów 36",
+      "additionalInfo": "przy pojemnikach na tekstylia",
+      "coordinates": null
+    },
+    {
+      "id": 64,
+      "lp": 64,
+      "address": "ul. Szpitalna 10-14",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": null
+    },
+    {
+      "id": 65,
+      "lp": 65,
+      "address": "os. Śmiałego 27",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 66,
+      "lp": 66,
+      "address": "os. Śmiałego 104",
+      "additionalInfo": "obok altany śmietnikowej — na parkingu",
+      "coordinates": null
+    },
+    {
+      "id": 67,
+      "lp": 67,
+      "address": "ul. Świerkowa 8",
+      "additionalInfo": "Zespół Szkół Mechanicznych im. KEN",
+      "coordinates": null
+    },
+    {
+      "id": 68,
+      "lp": 68,
+      "address": "ul. Św. Rocha 19A-P",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": null
+    },
+    {
+      "id": 69,
+      "lp": 69,
+      "address": "ul. Warzywna 19",
+      "additionalInfo": "Zespół Szkół Przemysłu Spożywczego",
+      "coordinates": null
+    },
+    {
+      "id": 70,
+      "lp": 70,
+      "address": "os. Wichrowe Wzgórze 3",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": null
+    },
+    {
+      "id": 71,
+      "lp": 71,
+      "address": "os. Wichrowe Wzgórze 8",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": null
+    },
+    {
+      "id": 72,
+      "lp": 72,
+      "address": "os. Wichrowe Wzgórze 21",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": null
+    },
+    {
+      "id": 73,
+      "lp": 73,
+      "address": "os. Wichrowe Wzgórze 30",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": null
+    },
+    {
+      "id": 74,
+      "lp": 74,
+      "address": "os. Wichrowe Wzgórze 35 R",
+      "additionalInfo": "wolnostojący",
+      "coordinates": null
+    },
+    {
+      "id": 75,
+      "lp": 75,
+      "address": "ul. Winiary 13",
+      "additionalInfo": "\"przy wieżowcach Winiary nr 7",
+      "coordinates": null
+    },
+    {
+      "id": 76,
+      "lp": 76,
+      "address": "ul. Zmartwychwstańców 10 V",
+      "additionalInfo": "LO im. Klaudyny Potockiej",
+      "coordinates": null
+    },
+    {
+      "id": 77,
+      "lp": 77,
+      "address": "os. Zwycięstwa 22m",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": null
+    },
+    {
+      "id": 78,
+      "lp": 78,
+      "address": "os. Zwycięstwa 125",
+      "additionalInfo": "obok biblioteki Raczyńskich",
+      "coordinates": null
+    }
+  ]
+}

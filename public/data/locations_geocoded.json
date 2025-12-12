@@ -1,0 +1,868 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-12-12T10:03:04.449727+00:00",
+  "city": "Poznań",
+  "country": "Poland",
+  "totalLocations": 78,
+  "geocoded": true,
+  "locations": [
+    {
+      "id": 1,
+      "lp": 1,
+      "address": "os. Tysiąclecia 45",
+      "additionalInfo": "wolnostojący",
+      "coordinates": {
+        "latitude": 52.395349,
+        "longitude": 16.97832
+      },
+      "geocodedAt": "2025-12-12T09:54:38.622343+00:00"
+    },
+    {
+      "id": 2,
+      "lp": 2,
+      "address": "ul. 28 Czerwca 1956 r. nr 352/360",
+      "additionalInfo": "teren szkoły",
+      "coordinates": {
+        "latitude": 52.40692,
+        "longitude": 16.92993
+      },
+      "geocodedAt": "2025-12-12T09:54:39.953985+00:00"
+    },
+    {
+      "id": 3,
+      "lp": 3,
+      "address": "ul. Arciszewskiego 35",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.389456,
+        "longitude": 16.88396
+      },
+      "geocodedAt": "2025-12-12T09:54:41.160248+00:00"
+    },
+    {
+      "id": 4,
+      "lp": 4,
+      "address": "ul. Ballenstaedta 11",
+      "additionalInfo": "obok paczkomatu – z lewej strony",
+      "coordinates": {
+        "latitude": 52.40692,
+        "longitude": 16.92993
+      },
+      "geocodedAt": "2025-12-12T09:54:43.038970+00:00"
+    },
+    {
+      "id": 5,
+      "lp": 5,
+      "address": "os. Batorego 4A",
+      "additionalInfo": "wolnostojący na parkingu",
+      "coordinates": {
+        "latitude": 52.456976,
+        "longitude": 16.92644
+      },
+      "geocodedAt": "2025-12-12T09:54:44.269903+00:00"
+    },
+    {
+      "id": 6,
+      "lp": 6,
+      "address": "os. Batorego 18a",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.458,
+        "longitude": 16.921476
+      },
+      "geocodedAt": "2025-12-12T09:54:45.364236+00:00"
+    },
+    {
+      "id": 7,
+      "lp": 7,
+      "address": "os. Batorego 27c",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.458714,
+        "longitude": 16.918634
+      },
+      "geocodedAt": "2025-12-12T09:54:46.438167+00:00"
+    },
+    {
+      "id": 8,
+      "lp": 8,
+      "address": "os. Batorego 39",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.460643,
+        "longitude": 16.92801
+      },
+      "geocodedAt": "2025-12-12T09:54:47.707206+00:00"
+    },
+    {
+      "id": 9,
+      "lp": 9,
+      "address": "os. Batorego 75a",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.463175,
+        "longitude": 16.920482
+      },
+      "geocodedAt": "2025-12-12T09:54:48.733116+00:00"
+    },
+    {
+      "id": 10,
+      "lp": 10,
+      "address": "os. Bohaterów II Wojny Światowej 33",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.383269,
+        "longitude": 16.95186
+      },
+      "geocodedAt": "2025-12-12T09:54:50.163075+00:00"
+    },
+    {
+      "id": 11,
+      "lp": 11,
+      "address": "os. Bolesława Śmiałego 107",
+      "additionalInfo": "SP nr 34",
+      "coordinates": {
+        "latitude": 52.454823,
+        "longitude": 16.924497
+      },
+      "geocodedAt": "2025-12-12T09:55:22.698106+00:00"
+    },
+    {
+      "id": 12,
+      "lp": 12,
+      "address": "ul. Bonin 10",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.430722,
+        "longitude": 16.909382
+      },
+      "geocodedAt": "2025-12-12T09:55:23.965999+00:00"
+    },
+    {
+      "id": 13,
+      "lp": 13,
+      "address": "ul. Byczyńska 11A",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.395695,
+        "longitude": 16.859509
+      },
+      "geocodedAt": "2025-12-12T09:55:25.025971+00:00"
+    },
+    {
+      "id": 14,
+      "lp": 14,
+      "address": "ul. Cegielskiego 1 VIII",
+      "additionalInfo": "LO im. Adama Mickiewicza",
+      "coordinates": {
+        "latitude": 52.402077,
+        "longitude": 16.939441
+      },
+      "geocodedAt": "2025-12-12T09:55:26.138824+00:00"
+    },
+    {
+      "id": 15,
+      "lp": 15,
+      "address": "os. Chrobrego 7",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.457056,
+        "longitude": 16.911518
+      },
+      "geocodedAt": "2025-12-12T09:55:27.409369+00:00"
+    },
+    {
+      "id": 16,
+      "lp": 16,
+      "address": "ul. Chrobrego 15",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.451203,
+        "longitude": 16.913204
+      },
+      "geocodedAt": "2025-12-12T09:55:28.712967+00:00"
+    },
+    {
+      "id": 17,
+      "lp": 17,
+      "address": "os. Chrobrego 34",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.447123,
+        "longitude": 16.917543
+      },
+      "geocodedAt": "2025-12-12T09:55:29.934377+00:00"
+    },
+    {
+      "id": 18,
+      "lp": 18,
+      "address": "ul. Czapla 21",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.428263,
+        "longitude": 16.953063
+      },
+      "geocodedAt": "2025-12-12T09:55:30.979003+00:00"
+    },
+    {
+      "id": 19,
+      "lp": 19,
+      "address": "ul. Galileusza 6",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.387776,
+        "longitude": 17.062255
+      },
+      "geocodedAt": "2025-12-12T09:55:32.069431+00:00"
+    },
+    {
+      "id": 20,
+      "lp": 20,
+      "address": "ul. Galileusza 14",
+      "additionalInfo": "Szkoła Podstawowa nr 7",
+      "coordinates": {
+        "latitude": 52.389526,
+        "longitude": 16.863481
+      },
+      "geocodedAt": "2025-12-12T09:55:33.099236+00:00"
+    },
+    {
+      "id": 21,
+      "lp": 21,
+      "address": "ul. Głogowska 113/117",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.378691,
+        "longitude": 16.876521
+      },
+      "geocodedAt": "2025-12-12T09:55:39.407422+00:00"
+    },
+    {
+      "id": 22,
+      "lp": 22,
+      "address": "ul. Górna Wilda 83 A-C",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.40692,
+        "longitude": 16.92993
+      },
+      "geocodedAt": "2025-12-12T09:55:40.695582+00:00"
+    },
+    {
+      "id": 23,
+      "lp": 23,
+      "address": "os. Jagiellońskie 17",
+      "additionalInfo": "parking przy targowisku",
+      "coordinates": {
+        "latitude": 52.392807,
+        "longitude": 16.952288
+      },
+      "geocodedAt": "2025-12-12T09:55:41.732301+00:00"
+    },
+    {
+      "id": 24,
+      "lp": 24,
+      "address": "os. Jagiellońskie 128",
+      "additionalInfo": "teren szkoły",
+      "coordinates": {
+        "latitude": 52.390716,
+        "longitude": 16.954752
+      },
+      "geocodedAt": "2025-12-12T09:55:42.855569+00:00"
+    },
+    {
+      "id": 25,
+      "lp": 25,
+      "address": "os. Jagiełły 3",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.4542,
+        "longitude": 16.906139
+      },
+      "geocodedAt": "2025-12-12T09:55:44.050579+00:00"
+    },
+    {
+      "id": 26,
+      "lp": 26,
+      "address": "ul. Janikowska 23B",
+      "additionalInfo": "przy paczkomacie",
+      "coordinates": {
+        "latitude": 52.43723,
+        "longitude": 17.009055
+      },
+      "geocodedAt": "2025-12-12T09:55:45.178633+00:00"
+    },
+    {
+      "id": 27,
+      "lp": 27,
+      "address": "ul. Keplera 8A",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.388512,
+        "longitude": 16.864115
+      },
+      "geocodedAt": "2025-12-12T09:55:46.469045+00:00"
+    },
+    {
+      "id": 28,
+      "lp": 28,
+      "address": "os. Kosmonautów 2",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": {
+        "latitude": 52.433387,
+        "longitude": 16.943801
+      },
+      "geocodedAt": "2025-12-12T09:55:47.661188+00:00"
+    },
+    {
+      "id": 29,
+      "lp": 29,
+      "address": "os. Kosmonautów 16",
+      "additionalInfo": "obok pojemników na segregowane odpady",
+      "coordinates": {
+        "latitude": 52.437624,
+        "longitude": 16.94391
+      },
+      "geocodedAt": "2025-12-12T09:55:48.742844+00:00"
+    },
+    {
+      "id": 30,
+      "lp": 30,
+      "address": "ul. Krańcowa 48",
+      "additionalInfo": "obok pojemników na segregowane odpady",
+      "coordinates": {
+        "latitude": 52.412023,
+        "longitude": 16.976902
+      },
+      "geocodedAt": "2025-12-12T09:55:49.878172+00:00"
+    },
+    {
+      "id": 31,
+      "lp": 31,
+      "address": "ul. Kurpińskiego",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.451281,
+        "longitude": 16.920512
+      },
+      "geocodedAt": "2025-12-12T09:56:36.815381+00:00"
+    },
+    {
+      "id": 32,
+      "lp": 32,
+      "address": "os. Lecha 37",
+      "additionalInfo": "SP nr 51",
+      "coordinates": {
+        "latitude": 52.390367,
+        "longitude": 16.97198
+      },
+      "geocodedAt": "2025-12-12T09:56:37.922716+00:00"
+    },
+    {
+      "id": 33,
+      "lp": 33,
+      "address": "os. Lecha 121",
+      "additionalInfo": "obok pasażu sklepów — na parkingu",
+      "coordinates": {
+        "latitude": 52.386598,
+        "longitude": 16.975607
+      },
+      "geocodedAt": "2025-12-12T09:56:39.110724+00:00"
+    },
+    {
+      "id": 34,
+      "lp": 34,
+      "address": "ul. Leszka 31",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.406901,
+        "longitude": 17.0209
+      },
+      "geocodedAt": "2025-12-12T09:56:40.339463+00:00"
+    },
+    {
+      "id": 35,
+      "lp": 35,
+      "address": "ul. Łukaszewicza róg ul. Stablewskiego",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.40692,
+        "longitude": 16.92993
+      },
+      "geocodedAt": "2025-12-12T09:56:41.382500+00:00"
+    },
+    {
+      "id": 36,
+      "lp": 36,
+      "address": "ul. Gen. St. Maczka 14",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.40692,
+        "longitude": 16.92993
+      },
+      "geocodedAt": "2025-12-12T09:56:42.478882+00:00"
+    },
+    {
+      "id": 37,
+      "lp": 37,
+      "address": "ul. Mścibora 66",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.407889,
+        "longitude": 17.01451
+      },
+      "geocodedAt": "2025-12-12T09:56:45.195943+00:00"
+    },
+    {
+      "id": 38,
+      "lp": 38,
+      "address": "os. Na Murawie 3-13",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.427956,
+        "longitude": 16.935001
+      },
+      "geocodedAt": "2025-12-12T09:56:46.359574+00:00"
+    },
+    {
+      "id": 39,
+      "lp": 39,
+      "address": "os. Na Skarpie 84",
+      "additionalInfo": "obok altany i sali bankietowej",
+      "coordinates": {
+        "latitude": 52.40692,
+        "longitude": 16.92993
+      },
+      "geocodedAt": "2025-12-12T09:56:47.630532+00:00"
+    },
+    {
+      "id": 40,
+      "lp": 40,
+      "address": "ul. Nad Potokiem 1",
+      "additionalInfo": "wolnostojący",
+      "coordinates": {
+        "latitude": 52.425028,
+        "longitude": 16.908218
+      },
+      "geocodedAt": "2025-12-12T09:56:48.677946+00:00"
+    },
+    {
+      "id": 41,
+      "lp": 41,
+      "address": "ul. Naramowicka 149b",
+      "additionalInfo": "przy pojemnikach półpodziemnych",
+      "coordinates": {
+        "latitude": 52.444722,
+        "longitude": 16.944592
+      },
+      "geocodedAt": "2025-12-12T09:57:25.811406+00:00"
+    },
+    {
+      "id": 42,
+      "lp": 42,
+      "address": "ul. Naramowicka 157",
+      "additionalInfo": "przy pojemnikach półpodziemnych",
+      "coordinates": {
+        "latitude": 52.44541,
+        "longitude": 16.946395
+      },
+      "geocodedAt": "2025-12-12T09:57:26.884360+00:00"
+    },
+    {
+      "id": 43,
+      "lp": 43,
+      "address": "ul. Naramowicka 169",
+      "additionalInfo": "przy pojemnikach półpodziemnych",
+      "coordinates": {
+        "latitude": 52.447991,
+        "longitude": 16.946965
+      },
+      "geocodedAt": "2025-12-12T09:57:28.050185+00:00"
+    },
+    {
+      "id": 44,
+      "lp": 44,
+      "address": "ul. Naramowicka 203",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.450883,
+        "longitude": 16.945867
+      },
+      "geocodedAt": "2025-12-12T09:57:29.238369+00:00"
+    },
+    {
+      "id": 45,
+      "lp": 45,
+      "address": "ul. Newtona 1",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.383294,
+        "longitude": 16.864956
+      },
+      "geocodedAt": "2025-12-12T09:57:30.629676+00:00"
+    },
+    {
+      "id": 46,
+      "lp": 46,
+      "address": "ul. Olszynka 8",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.395248,
+        "longitude": 16.868058
+      },
+      "geocodedAt": "2025-12-12T09:57:31.829421+00:00"
+    },
+    {
+      "id": 47,
+      "lp": 47,
+      "address": "os. Orła Białego 71",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.378165,
+        "longitude": 16.968706
+      },
+      "geocodedAt": "2025-12-12T09:57:32.880811+00:00"
+    },
+    {
+      "id": 48,
+      "lp": 48,
+      "address": "os. Pod Lipami 7",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": {
+        "latitude": 52.430892,
+        "longitude": 16.941226
+      },
+      "geocodedAt": "2025-12-12T09:57:34.097645+00:00"
+    },
+    {
+      "id": 49,
+      "lp": 49,
+      "address": "os. Pod Lipami 81",
+      "additionalInfo": "obok pojemników na segregowane odpady",
+      "coordinates": {
+        "latitude": 52.431172,
+        "longitude": 16.940884
+      },
+      "geocodedAt": "2025-12-12T09:57:35.147355+00:00"
+    },
+    {
+      "id": 50,
+      "lp": 50,
+      "address": "os. Potockiej 38 XXXVII",
+      "additionalInfo": "LO z Oddziałami Terapeutycznymi",
+      "coordinates": {
+        "latitude": 52.40692,
+        "longitude": 16.92993
+      },
+      "geocodedAt": "2025-12-12T09:57:36.319907+00:00"
+    },
+    {
+      "id": 51,
+      "lp": 51,
+      "address": "os. Przemysława 21",
+      "additionalInfo": "siedziba SM Zrzeszeni",
+      "coordinates": {
+        "latitude": 52.38777,
+        "longitude": 17.003193
+      },
+      "geocodedAt": "2025-12-12T09:59:37.047889+00:00"
+    },
+    {
+      "id": 52,
+      "lp": 52,
+      "address": "os. Przyjaźni 18",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": {
+        "latitude": 52.431409,
+        "longitude": 16.92108
+      },
+      "geocodedAt": "2025-12-12T09:59:38.288915+00:00"
+    },
+    {
+      "id": 53,
+      "lp": 53,
+      "address": "os. Przyjaźni 142",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.429646,
+        "longitude": 16.921676
+      },
+      "geocodedAt": "2025-12-12T09:59:39.391153+00:00"
+    },
+    {
+      "id": 54,
+      "lp": 54,
+      "address": "ul. Raszkowska 21",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.387351,
+        "longitude": 16.856196
+      },
+      "geocodedAt": "2025-12-12T09:59:40.417672+00:00"
+    },
+    {
+      "id": 55,
+      "lp": 55,
+      "address": "ul. Raszyńska 4",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.389327,
+        "longitude": 16.875283
+      },
+      "geocodedAt": "2025-12-12T09:59:41.569641+00:00"
+    },
+    {
+      "id": 56,
+      "lp": 56,
+      "address": "ul. Raszyńska 33",
+      "additionalInfo": "obok pojemników na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.386809,
+        "longitude": 16.871775
+      },
+      "geocodedAt": "2025-12-12T09:59:42.601784+00:00"
+    },
+    {
+      "id": 57,
+      "lp": 57,
+      "address": "os. Rusa 58",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.387763,
+        "longitude": 16.983763
+      },
+      "geocodedAt": "2025-12-12T09:59:43.696124+00:00"
+    },
+    {
+      "id": 58,
+      "lp": 58,
+      "address": "ul. Sarmacka 8f",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.446254,
+        "longitude": 16.944393
+      },
+      "geocodedAt": "2025-12-12T09:59:44.948727+00:00"
+    },
+    {
+      "id": 59,
+      "lp": 59,
+      "address": "os. Sobieskiego 41F",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.461036,
+        "longitude": 16.90984
+      },
+      "geocodedAt": "2025-12-12T09:59:46.099966+00:00"
+    },
+    {
+      "id": 60,
+      "lp": 60,
+      "address": "ul. Sokoła 25",
+      "additionalInfo": "wolnostojący",
+      "coordinates": {
+        "latitude": 52.426092,
+        "longitude": 16.912294
+      },
+      "geocodedAt": "2025-12-12T09:59:47.437845+00:00"
+    },
+    {
+      "id": 61,
+      "lp": 61,
+      "address": "os. Stare Żegrze 109",
+      "additionalInfo": "obok Netto",
+      "coordinates": {
+        "latitude": 52.383449,
+        "longitude": 16.966855
+      },
+      "geocodedAt": "2025-12-12T10:00:53.563412+00:00"
+    },
+    {
+      "id": 62,
+      "lp": 62,
+      "address": "ul. Strugarka 13",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.462868,
+        "longitude": 16.86554
+      },
+      "geocodedAt": "2025-12-12T10:00:54.672430+00:00"
+    },
+    {
+      "id": 63,
+      "lp": 63,
+      "address": "ul. Szarych Szeregów 36",
+      "additionalInfo": "przy pojemnikach na tekstylia",
+      "coordinates": {
+        "latitude": 52.457724,
+        "longitude": 16.88294
+      },
+      "geocodedAt": "2025-12-12T10:00:55.912053+00:00"
+    },
+    {
+      "id": 64,
+      "lp": 64,
+      "address": "ul. Szpitalna 10-14",
+      "additionalInfo": "przy pojemnikach na odpady segregowane",
+      "coordinates": {
+        "latitude": 52.415128,
+        "longitude": 16.880174
+      },
+      "geocodedAt": "2025-12-12T10:00:57.240486+00:00"
+    },
+    {
+      "id": 65,
+      "lp": 65,
+      "address": "os. Śmiałego 27",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.447921,
+        "longitude": 16.925463
+      },
+      "geocodedAt": "2025-12-12T10:00:58.385948+00:00"
+    },
+    {
+      "id": 66,
+      "lp": 66,
+      "address": "os. Śmiałego 104",
+      "additionalInfo": "obok altany śmietnikowej — na parkingu",
+      "coordinates": {
+        "latitude": 52.452993,
+        "longitude": 16.923344
+      },
+      "geocodedAt": "2025-12-12T10:00:59.610024+00:00"
+    },
+    {
+      "id": 67,
+      "lp": 67,
+      "address": "ul. Świerkowa 8",
+      "additionalInfo": "Zespół Szkół Mechanicznych im. KEN",
+      "coordinates": {
+        "latitude": 52.372335,
+        "longitude": 16.897391
+      },
+      "geocodedAt": "2025-12-12T10:01:01.000346+00:00"
+    },
+    {
+      "id": 68,
+      "lp": 68,
+      "address": "ul. Św. Rocha 19A-P",
+      "additionalInfo": "PSM Wielkopolanka",
+      "coordinates": {
+        "latitude": 52.399555,
+        "longitude": 16.946587
+      },
+      "geocodedAt": "2025-12-12T10:01:02.562701+00:00"
+    },
+    {
+      "id": 69,
+      "lp": 69,
+      "address": "ul. Warzywna 19",
+      "additionalInfo": "Zespół Szkół Przemysłu Spożywczego",
+      "coordinates": {
+        "latitude": 52.428275,
+        "longitude": 16.928162
+      },
+      "geocodedAt": "2025-12-12T10:01:03.740185+00:00"
+    },
+    {
+      "id": 70,
+      "lp": 70,
+      "address": "os. Wichrowe Wzgórze 3",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": {
+        "latitude": 52.435589,
+        "longitude": 16.937799
+      },
+      "geocodedAt": "2025-12-12T10:01:04.832355+00:00"
+    },
+    {
+      "id": 71,
+      "lp": 71,
+      "address": "os. Wichrowe Wzgórze 8",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": {
+        "latitude": 52.437767,
+        "longitude": 16.939029
+      },
+      "geocodedAt": "2025-12-12T10:01:11.506210+00:00"
+    },
+    {
+      "id": 72,
+      "lp": 72,
+      "address": "os. Wichrowe Wzgórze 21",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": {
+        "latitude": 52.436304,
+        "longitude": 16.933008
+      },
+      "geocodedAt": "2025-12-12T10:01:12.662554+00:00"
+    },
+    {
+      "id": 73,
+      "lp": 73,
+      "address": "os. Wichrowe Wzgórze 30",
+      "additionalInfo": "PSM Winogrady",
+      "coordinates": {
+        "latitude": 52.441669,
+        "longitude": 16.932539
+      },
+      "geocodedAt": "2025-12-12T10:01:13.759085+00:00"
+    },
+    {
+      "id": 74,
+      "lp": 74,
+      "address": "os. Wichrowe Wzgórze 35 R",
+      "additionalInfo": "wolnostojący",
+      "coordinates": {
+        "latitude": 52.439708,
+        "longitude": 16.934581
+      },
+      "geocodedAt": "2025-12-12T10:01:14.948114+00:00"
+    },
+    {
+      "id": 75,
+      "lp": 75,
+      "address": "ul. Winiary 13",
+      "additionalInfo": "\"przy wieżowcach Winiary nr 7",
+      "coordinates": {
+        "latitude": 52.432847,
+        "longitude": 16.910408
+      },
+      "geocodedAt": "2025-12-12T10:01:16.237170+00:00"
+    },
+    {
+      "id": 76,
+      "lp": 76,
+      "address": "ul. Zmartwychwstańców 10 V",
+      "additionalInfo": "LO im. Klaudyny Potockiej",
+      "coordinates": {
+        "latitude": 52.385601,
+        "longitude": 16.920434
+      },
+      "geocodedAt": "2025-12-12T10:01:17.508387+00:00"
+    },
+    {
+      "id": 77,
+      "lp": 77,
+      "address": "os. Zwycięstwa 22m",
+      "additionalInfo": "obok altany na odpady",
+      "coordinates": {
+        "latitude": 52.44068,
+        "longitude": 16.923469
+      },
+      "geocodedAt": "2025-12-12T10:01:18.840165+00:00"
+    },
+    {
+      "id": 78,
+      "lp": 78,
+      "address": "os. Zwycięstwa 125",
+      "additionalInfo": "obok biblioteki Raczyńskich",
+      "coordinates": {
+        "latitude": 52.439043,
+        "longitude": 16.92989
+      },
+      "geocodedAt": "2025-12-12T10:01:20.170758+00:00"
+    }
+  ]
+}
