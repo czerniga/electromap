@@ -13,7 +13,9 @@ export default function MapControls() {
     requestLocation()
     // If we already have a position, center immediately
     if (userPosition) {
-      map.setView([userPosition.lat, userPosition.lng], map.getZoom(), { animate: true })
+      map.flyTo([userPosition.lat, userPosition.lng], Math.max(map.getZoom(), 16), { animate: true })
+      // Ensure map recalculates layout in case of container resize/overlays
+      setTimeout(() => map.invalidateSize(), 150)
     }
   }, [map, userPosition, requestLocation])
 
