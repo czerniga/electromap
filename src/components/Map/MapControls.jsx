@@ -18,7 +18,7 @@ export default function MapControls() {
   }, [map, userPosition, requestLocation])
 
   return (
-    <div className="leaflet-top leaflet-right">
+    <div className="leaflet-bottom leaflet-left">
       <div className="leaflet-control">
         <button
           aria-label="Wyśrodkuj na mnie"
