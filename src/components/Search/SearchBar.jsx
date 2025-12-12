@@ -13,7 +13,7 @@ export default function SearchBar() {
   }, [setSearchQuery])
 
   return (
-    <div className="absolute left-4 right-4 top-4 z-[1000]">
+    <div className="absolute left-24 right-4 top-4 z-[1000] md:left-auto md:right-4 md:w-[380px]">
       <div className="flex items-center gap-2 rounded-xl bg-white/95 shadow p-2">
         <Search className="w-5 h-5 text-gray-500" aria-hidden />
         <input
